@@ -1,4 +1,4 @@
-# Finease - Finance With Ease
+# FinEase - Finance made easy
 
 ## Prerequisites
 
